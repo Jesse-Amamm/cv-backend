@@ -1,0 +1,1 @@
+npm install accesscontrol bcrypt bcryptjs bluebird body-parser connect-mongo cookie-parser cors crypto cryptr dotenv env-cmd express express-session express-validator form-data jsonwebtoken mongoose mongoose-paginate-v2 node-captcha-generator node-fetch nodemailer nodemon passport validator
